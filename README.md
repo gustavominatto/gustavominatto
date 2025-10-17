@@ -5,7 +5,6 @@ Sou um desenvolvedor iniciante, tenho um aprendizado contínuo e criação de so
 Atualmente, estudo no **3°ano do Ensino Médio integrado com Desenvolvimento de Sistemas** e venho explorando tecnologias para **back-end, front-end e Banco de dados**.  
 
 
-
 ## 🛠️ Tecnologias e Ferramentas
 
 | 🧩 Categoria | 🚀 Tecnologias |
@@ -17,7 +16,6 @@ Atualmente, estudo no **3°ano do Ensino Médio integrado com Desenvolvimento de
 | 🧰 **Ferramentas** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 
-
 ## 📈 Estatísticas do GitHub
 
 ![Gustavo Minatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavominatto&show_icons=true&theme=tokyonight)
@@ -25,8 +23,9 @@ Atualmente, estudo no **3°ano do Ensino Médio integrado com Desenvolvimento de
 
 ## 🌎 Onde me encontrar
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://br.linkedin.com/in/gustavo-minatto-01196b22a))
-- 🐙 [GitHub](https://github.com/gustavominatto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-minatto-01196b22a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavominatto)
+
 
 
 
